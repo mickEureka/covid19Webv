@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;proyCovidWeb_v3 (1)&apos; to &apos;proyCovidWeb_v3&apos;" description="Rename resource &apos;proyCovidWeb_v3 (1)&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/proyCovidWeb_v3 (1)" name="proyCovidWeb_v3" stamp="1591139219416" updateReferences="true"/>
+</session>
